@@ -29,3 +29,8 @@ int main()
     
 
 }
+/* OUTPUT
+Enter coordinate of x:5
+Enter coordinate of y:10
+Coordinates in first quadrant!
+*/
