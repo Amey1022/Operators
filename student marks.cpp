@@ -30,3 +30,11 @@ int main()
      }
 
 }
+/* OUTPUT
+enter marks of 5 subjects:70
+80
+90
+60
+80
+Grade A
+*/
