@@ -12,3 +12,11 @@ int main()
         prn=prn/10;
     }
 }
+/* OUTPUT
+enter last 5 digits of PRN:23019
+9
+1
+0
+3
+2
+*/
